@@ -1,6 +1,8 @@
 ## Olá me chamo Iran!
 
-Desenvolvedor Front-end. Iniciado no mundo da tecnologia desde 2013, tive a oportunidade de trabalhar com manutenção de hardware. Após isso, pude me conectar com o mundo da progamação onde comecei a gostar e desenvolver sistemas.
+Desenvolvedor Front-end. 
+
+Desde 2013 venho me apaixonando cada vez mais pelo mundo da tecnologia, onde tive oportunidade de trabalhar com manutenção de hardware. E então decidi me formar na área e atualmente curso Engenharia da Computação, trabalho como desenvolvedor de sistemas e me identifiquei com a área de software.
 
  <div>
   <a href="https://github.com/iran55">
