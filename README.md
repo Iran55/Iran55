@@ -1,5 +1,7 @@
 ## Olá me chamo Iran!
 
+Desenvolvedor Front-end. Iniciado no mundo da tecnologia desde 2013, tive a oportunidade de trabalhar com manutenção de hardware. Após isso, pude me conectar com o mundo da progamação onde comecei a gostar e desenvolver sistemas.
+
  <div>
   <a href="https://github.com/iran55">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iran55&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
