@@ -4,6 +4,18 @@ Desenvolvedor Front-end.
 
 Desde 2013 venho me apaixonando cada vez mais pelo mundo da tecnologia, onde tive oportunidade de trabalhar com manutenção de hardware. E então decidi me formar na área e atualmente curso Engenharia da Computação, trabalho como desenvolvedor de sistemas e me identifiquei com a área de software.
 
+Cursando Engenharia da Computação, atualmente focado no FrontEnd (JS e React.JS), dedicado em aprender e ensinar, estou sempre em busca de formas em que eu possa aprimorar minha prática e elevar minha experiência.
+
+Apesar do foco em Front-End, tbm tenho conhecimento no BackEnd e experiência em manutenção de computadores e configuração de equipamentos eletrônicos.
+
+Sou extremamente motivado em
+constante desenvolvimento de minhas
+habilidades e crescimento profissional,
+criativo, ético, inovador e cooperador,
+sempre aberto a novas experiências e
+tecnologias!
+
+
  <div>
   <a href="https://github.com/iran55">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iran55&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
