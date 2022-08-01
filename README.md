@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Iran Ribeiro 🖐️
 
-[Iran55 GitHub stats](https://github-readme-stats.vercel.app/api?username=i
-ran55&show_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -22,6 +19,7 @@ ran55&show_icons=true&theme=dracula&count_private=true)
 <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div><br/>
 
+![Iran GitHub stats](https://github-readme-stats.vercel.app/api?username=Iran55&show_icons=true&theme=dracula&count_private=true)
 
 Apaixonado por tecnologia, construir soluções de qualidade que tragam valor e diferencial, além de aplicar os mesmos princípios aos ambientes em que esteja inserido e em relação às pessoas que convivam comigo.
 
