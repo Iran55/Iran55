@@ -11,8 +11,8 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div><br>
+  <img align="" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div><br><br>
 
 ![Iran GitHub stats](https://github-readme-stats.vercel.app/api?username=Iran55&show_icons=true&theme=dracula&count_private=true)
 
@@ -26,4 +26,3 @@ habilidades e crescimento profissional,
 criativo, ético, inovador e cooperador,
 sempre aberto a novas experiências e
 tecnologias!
-
