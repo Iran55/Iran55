@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Iran Ribeiro 🖐️
 
-![Iran GitHub stats](https://github-readme-stats.vercel.app/api?username=i
+[Iran55 GitHub stats](https://github-readme-stats.vercel.app/api?username=i
 ran55&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
